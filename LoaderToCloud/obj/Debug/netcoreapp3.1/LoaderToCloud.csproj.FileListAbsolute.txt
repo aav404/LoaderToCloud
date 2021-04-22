@@ -1,0 +1,6 @@
+C:\Users\sanya\source\repos\LoaderToCloud\LoaderToCloud\bin\Debug\netcoreapp3.1\LoaderToCloud.exe
+C:\Users\sanya\source\repos\LoaderToCloud\LoaderToCloud\obj\Debug\netcoreapp3.1\LoaderToCloud.csprojAssemblyReference.cache
+C:\Users\sanya\source\repos\LoaderToCloud\LoaderToCloud\obj\Debug\netcoreapp3.1\LoaderToCloud.AssemblyInfoInputs.cache
+C:\Users\sanya\source\repos\LoaderToCloud\LoaderToCloud\obj\Debug\netcoreapp3.1\LoaderToCloud.AssemblyInfo.cs
+C:\Users\sanya\source\repos\LoaderToCloud\LoaderToCloud\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sanya\source\repos\LoaderToCloud\LoaderToCloud\obj\Debug\netcoreapp3.1\LoaderToCloud.csproj.CopyComplete
